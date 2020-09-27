@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T14:22:11.271Z" agent="5.0 (Windows)" etag="kf4x1IRVsHp6GFEtVfKp" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T14:28:31.137Z" agent="5.0 (Windows)" etag="6vJ6mr2jyK0EATE50cNc" version="13.7.5" type="github">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
     <mxGraphModel dx="1401" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk3E8QH6qJd0GcoNjZV--1" target="nk3E8QH6qJd0GcoNjZV--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
