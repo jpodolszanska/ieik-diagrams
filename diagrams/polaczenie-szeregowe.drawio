@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2020-09-27T14:38:35.967Z" agent="5.0 (Windows)" etag="0eUxXJLnfdgDqraphPyP" version="13.7.5" type="github">
+  <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
+    <mxGraphModel dx="801" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nk3E8QH6qJd0GcoNjZV--1" target="nk3E8QH6qJd0GcoNjZV--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--7" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;R1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;R2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nk3E8QH6qJd0GcoNjZV--10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;R3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
