@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T16:45:01.459Z" agent="5.0 (Windows)" etag="n3OaNmjE52T7NonE5kg6" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T16:45:40.696Z" agent="5.0 (Windows)" etag="0hNdyyEAbIGKOq1gMvm3" version="13.7.6" type="github">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XJaF_dUkGwU_c3xw0yU6-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
